@@ -9,5 +9,4 @@ link to the site:  https://mostafa-al-hassan.github.io/lucky-shrub-project/
 I built this page using only HTML and CSS, using everything I learned throughout the course. The design is clean and simple, with a soft color scheme and attractive images.
 In addition, I made sure to apply good accessibility and responsiveness practices, ensuring that the page is easy to navigate on different devices and for everyone.
 
-link to the site:  https://mostafa-al-hassan.github.io/lucky-shrub-project/
 
