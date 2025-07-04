@@ -1,5 +1,6 @@
 # lucky-shrub-project
 This is a project that I developed as part of the Meta Front End Developer Professional Certificate on Coursera (HTML and CSS in depth). The idea was to create a landing page for a fictitious client, in my case, Lucky Shrub, a garden design firm that specializes in landscaping and garden creation.
+
 link to the site:  https://mostafa-al-hassan.github.io/lucky-shrub-project/
 ## Screenshots 
 ![Page Preview](screenshots/screenshot1.png)
